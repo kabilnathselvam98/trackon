@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218791648360",
+    "project_id": "trackon-f66a3",
+    "storage_bucket": "trackon-f66a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218791648360:android:5ab3ffa9f73def4d80afdd",
+        "android_client_info": {
+          "package_name": "com.trackon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADK2dnt5bQ2VpaJWRR9OAkfPT7lpc7GuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
